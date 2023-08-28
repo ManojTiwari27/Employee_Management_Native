@@ -1,5 +1,5 @@
 {
-  "name": "Demo",
+  "name": "HR operations",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -20,8 +20,10 @@
     "@react-navigation/stack": "^6.2.1",
     "@reduxjs/toolkit": "^1.9.5",
     "axios": "^1.4.0",
+    "expo-font": "^11.4.0",
     "react": "17.0.2",
     "react-native": "0.68.2",
+    "react-native-bouncy-checkbox": "^3.0.7",
     "react-native-element-dropdown": "^2.9.0",
     "react-native-gesture-handler": "^2.4.2",
     "react-native-paper": "^5.10.1",
@@ -31,7 +33,9 @@
     "react-native-vector-icons": "^9.2.0",
     "react-native-webview": "^13.3.1",
     "react-navigation-stack": "^2.10.4",
-    "react-redux": "^8.1.2"
+    "react-redux": "^8.1.2",
+    "socket.io": "^4.7.2",
+    "socket.io-client": "^4.7.2"
   },
   "devDependencies": {
     "@babel/core": "7.17.10",
